@@ -1278,3 +1278,643 @@ vi update_job.sh
 vi  update_job.sh
 #1727325434
 exit
+sudo adduser user1
+sudo adduser user01 --enabled-password
+sudo adduser LOGIN
+whoami
+ls /home
+sudo su - user1
+ssh-keygen -y -f /"C:\Users\venkata.vegi\Downloads\user1_kp.pem"
+sudo su - user1
+sudo -i
+sudo su - user1
+sudo -i
+sudo su - user1
+su - user1
+su - i
+su-i
+su -i
+sudo su-i
+sudo su -i
+su -i
+su - i
+sudo su -i
+su - i
+su -root
+su - root
+su -i
+su --i
+su --help
+su -i
+sudo /etc/ssh/sshd_config
+sudo etc/ssh/sshd_config
+sudo vi  /etc/ssh/sshd_config
+sudo systemctl restart sshd
+sudo su
+su - user1
+sudo adduser test1
+sudo useradd test2
+cd home
+cd /home
+ls -l
+mkdir shell_script
+chmod 700 shell_script
+cd shell_script
+touch mycode.sh
+chmod 700 mycode.sh
+touch file1.txt
+chmod 700 file1.txt
+cat >> file1.txt
+cat >> mycode.sh
+chmod -x mycode.sh
+./mycode.sh file1.txt file2.txt
+chmod 700 mycode.sh
+ ./mycode.sh file1.txt file2.txt
+ls -a
+cat file2.txt
+./mycode.sh file1.txt file1.txt
+./mycode.sh file1.txt file3.txt
+ls -l
+ls -a
+cat file3.txt
+rm file3.txt
+ls -a
+cat file1.txt
+./mycode.sh text1.txt file2.txt
+mkdir sjk
+cd sjk
+cd ..
+rmdir sjk
+sudo su
+ls -al
+sudo mkdir shell_script
+sudo chmod 700 shell_script
+cd shell_script
+sudo cd shell_script
+ls -l
+cd shell_script
+sudo su
+ls -al
+cd shell_script
+vi mycode.sh
+vi file1.txt
+./mycode.sh file1.txt file2.txt
+cat file2.txt
+cat >> file2.txt
+ls -al
+cat mycode.sh
+vi mycode.sh
+rm file2.txt
+,/mycode.sh file1.txt file2.txt
+./mycode.sh file1.txt file2.txt
+cat file2.txt
+cat mycode.sh
+./mycode.sh file1.txt file2.txt
+sudo apt update
+cd ..
+sudo apt update
+sudo yum update 
+sudo yum install perl
+perl -v
+./mycode.sh file1.txt file2.txt
+ls -al
+cd shell_scripting
+cd shell_script
+./mycode.sh file1.txt file2.txt
+cat file2.txt
+cd shell_script
+vi mycode.sh
+cat file1.txt
+vi file1.txt
+cd shell_script
+cat file1.txt
+cat file2.txt
+./mycode.sh file1.txt file2.txt
+cat file2.txt
+vi mycode.sh
+./mycode.sh file1.txt file2.txt
+cat file2.txt
+cat mycode.sh
+vi mycode.sh
+cat file1.txt
+cat file2.txt
+./mycode.sh file1.txt file2.txt
+cat file2.txt
+cat mycode.sh
+-s file1.txt
+ls -al
+rm file1.txt
+rm file2.txt
+touch file1.txt
+chmod 700 file1.txt
+./mycode.sh file1.txt file2.txt
+cat file2.txt
+adduser user2
+sudo adduser user2
+sudo passwd user2
+ls -al
+su - user1
+ls -al
+cd .ssh
+ls -al
+cat authorized_keys
+ls -al
+cd shell_script
+ls -al
+rm file2.txt
+ls -al
+cat mycode.sh
+man
+cd ..
+man
+ls -al
+cd shell_script
+cat file1.txt
+hostnamectl
+cls
+clear
+hostnamectl
+lscpu
+clear
+lscpu
+df -H
+df -g
+df -G
+df -ah
+free -g
+free -m
+clear
+sudo yum update
+sudo yum install java-21-openjdk
+java -version
+sudo yum install wget
+wget https://www.oracle.com/database/technologies/oracle21c-linux-downloads.html
+ls -al
+rm oracle21c-linux-downloads.html
+ls -al
+wget https://yum.oracle.com/repo/OracleLinux/OL8/appstream/x86_64/getPackage/oracle-database-preinstall-21c-1.0-1.el8.x86_64.rpm
+ls -al
+sudo yum localinstall oracle-database-preinstall-21c-1.0-1.el8.x86_64.rpm
+ls -al
+history
+clear
+ls -al
+sudo yum localinstall oracle-database-preinstall-21c-1.0-1.el8.x86_64.rpm
+sudo yum install epel-release
+sudo yum localinstall oracle-database-preinstall-21c-1.0-1.el8.x86_64.rpm
+hostnamectl
+clear
+ls -al
+sudo yum localinstall oracle-database-preinstall-21c-1.0-1.el8.x86_64.rpm
+wget https://download.oracle.com/otn-pub/otn_software/db-express/oracle-database-xe-21c-1.0-1.ol8.x86_64.rpm?AuthParam=1727073338_5cc518d16ab8ae1e1c676432bc44570b
+ls -al
+mv 'oracle-database-xe-21c-1.0-1.ol8.x86_64.rpm?AuthParam=1727073338_5cc518d16ab8ae1e1c676432bc44570b' oracle-database-xe-21c-1.0-1.ol8.x86_64.rpm
+ls -al
+sudo yum localinstall oracle-database-preinstall-21c-1.0-1.el8.x86_64.rpm
+clear
+ls -al
+sudo yum local install oracle-database-preinstall-21c-1.0-1.el8.x86_64.rpm
+sudo yum localinstall oracle-database-preinstall-21c-1.0-1.el8.x86_64.rpm
+clear
+ls -al
+sudo yum localinstall oracle-database-preinstall-21c-1.0-1.el8.x86_64.rpm
+java -version
+wget https://yum.oracle.com/repo/OracleLinux/OL8/appstream/x86_64/getPackage/compat-openssl10-1.0.2o-3.el8.x86_64.rpm
+sudo yum localinstall oracle-database-preinstall-21c-1.0-1.el8.x86_64.rpm
+ls -al
+sudo yum localinstall compat-openssl10-1.0.2o-3.el8.x86_64.rpm
+sudo yum localinstall oracle-database-preinstall-21c-1.0-1.el8.x86_64.rpm
+sudo yum localinstall oracle-database-xe-21c-1.0-1.ol8.x86_64.rpm
+free -k
+clear
+sudo /etc/init.d/oracle-xe-21c configure
+sqlplus
+export CV_ASSUME_DISTID=OEL8.1
+ sudo /etc/init.d/oracle-xe-21c configure
+echo $ORACLE_HOME
+ls -al /opt/oracle/product/21c/dbhomeXE
+echo $ORACLE_SID
+echo $PATH
+ls -al
+cat .bash_profile
+sudo yum localinstall oracle-database-xe-21c-1.0-1.ol8.x86_64.rpm
+cat .bash_profile
+cat /opt/oracle/product/21c/dbhomeXE
+vi
+echo $oracle_home
+cat .bash_profile
+cat $ORACLE_HOME/cv/admin/cvu_config through editor
+cd /opt/oracle/product/21c/dbhomeXE
+ls -al
+cd cv
+ls -al
+cd admin
+ls -al
+cd cvu_config
+cat cvu_config
+vi cvu_config
+sudo  vi cvu_config
+cat cvu_config
+ls -al
+sudo yum localinstall oracle-database-xe-21c-1.0-1.ol8.x86_64.rpm
+sudo /etc/init.d/oracle-xe-21c configure
+sudo /etc/init.d/oracle-xe-21c configure
+export CV_ASSUME_DISTID=OEL8.4
+sudo /etc/init.d/oracle-xe-21c configure
+sudo vi /etc/init.d/oracle-xe-21c
+sudo vi $ORACLE_HOME/cv/admin/cvu_config
+$ vi /u01/app/oracle/product/19.3.0/dbhome_1/cv/admin/cvu_config
+ vi /u01/app/oracle/product/19.3.0/dbhome_1/cv/admin/cvu_config
+clear
+ls -al
+env
+history
+env
+echo $ORACLE_HOME
+ Copy. $ setenv ORACLE_HOME /u01/app/oracle/product/21.0.0/dbhome_1 $ cd $ORACLE_HOME/bin $ ./orabasehome.
+echo $oracle_home
+cd oracle_home
+ls -al
+cd .bash_profile
+cat .bash_profile
+cat .bash_history
+cd ..
+ls -al
+cd oracle
+su - oracle
+su - ec2-user
+ls -al
+su - ec2-user
+sudo /etc/init.d/oracle-xe-21c configure
+export ORACLE_HOME=/opt/oracle/product/21c/dbhomeXE
+export ORACLE_SID=XE
+export PATH=$PATH:/opt/oracle/product/21c/dbhomeXE/bin/
+sqlplus
+cd /opt
+ls -al
+cd oracle
+ls -al
+cd admin
+sudo cd admin
+ls -al
+sudo cd admin
+echo $ORACLE_HOME
+cd $ORACLE_HOME
+ls -al
+cd cv
+ls -al
+cd admin
+ls -a
+cat cvu_config
+ sudo /etc/init.d/oracle-xe-21c configure
+sudo bash
+sudo /etc/init.d/oracle-xe-21c configure
+sudo export CV_ASSUME_DISTID=OEL8.4
+export CV_ASSUME_DISTID=OEL8.4
+sudo /etc/init.d/oracle-xe-21c configure
+sudo bash
+ls -al
+sudo /etc/init.d/oracle-xe-21c configure
+cat /opt/oracle/cfgtoollogs/dbca/your-log-file.log
+sudo bash
+cat /opt/oracle/product/21c/dbhomeXE/cv/admin/cvu_config
+select * from employee
+sqlplus
+vi .bash_profile
+sudo vi .bash_profile
+source ~/.bash_profile
+sqlplus
+sql plus
+export ORACLE_HOME=/opt/oracle/product/21c/dbhomeXE
+export ORACLE_SID=XE
+export PATH=$PATH:/opt/oracle/product/21c/dbhomeXE/bin/
+sqlplus
+ls -al
+sqlplus
+sudo /etc/init.d/oracle-xe-21c configure
+sqlplus
+sudo /etc/init.d/oracle-xe-21c configure
+sqlplus
+sal
+sqlplus
+lsnrctl ststus
+lsnrctl status
+exit
+tnsping XE
+lsnrctl status
+sudo lsnrctl start
+source ~/.bash_profile
+sudo bash
+sudo su
+sudo service oracle-xe-21c status
+lsnrctl status
+cat /opt/oracle/product/21c/dbhomeXE/network/log/listener.log
+sudo cat /opt/oracle/product/21c/dbhomeXE/network/log/listener.log
+clear
+lsnrctl status
+netstat -ltnp
+tnsping XE
+sudo su
+cd .ssh
+cat authorized_keys
+cat >> authorized_keys
+exit
+cd /opt
+cd oracle
+ls -al
+cd admin
+ls -al
+cd admin
+sudo cd admin
+ls -al
+dc ..
+cd ..
+cd /opt
+cd oracle
+ls -al
+cd product
+cd 21c
+ls -al
+cd dbhomeXE
+ls -al
+cd cv
+ls -al
+cd admin
+ls -al
+cd ..
+ls -al
+cd ..
+ls -al
+cd bin
+ls -al
+su - user1
+sqlplus
+exit
+sudo bash
+sqlplus
+cd $PATH
+cd .local
+ls -al
+cd /opt
+cd oracle
+ls -al
+cd product
+ls -al
+cd 21c
+ls -al
+cd dbhomeXE
+ls -al
+cd bin
+imp classicmodels/classicmodels FILE=/home/ec2-user/classicmodels.dmp log=/home/ec2-user/import.log FULL=Y
+cd 
+ls -al
+sqlplus
+cd /opt/oracle
+ls -al
+cd product
+ls -al
+cd 21c
+ls -al
+cd dbhomeXE
+ls -al
+cd bin
+imp venkat/Venkat123 FILE=/home/ec2-user/classicmodels.dmp log=/home/ec2-user/import.log FULL=Y
+sudo bash
+sqlplus
+ls -al /
+ls -ld /opt
+ls -al
+sudo bash
+netstat -ltnp
+su bash
+sudo bash
+cd opt.oracle
+cd opt/oracle
+cd opt
+ls -al
+su 
+su - root
+sudo bash
+ls -al
+netstat -ltnr
+netstat -tsnr
+netstat -ltnp
+echo $ORACLE_HOME
+lsnrctl status
+lsnrctl start
+su -
+sudo bash
+cat $ORACLE_HOME/network/admin/samples/listeners.ora
+cd $ORACLE_HOME
+cd network
+cd admin
+cd samples
+cat listeners.ora
+ls -al
+cat listener.ora
+netstat -ltnp
+lsnrctl status
+ls -al
+cat tnsnames.ora
+cat sqlnet.ora
+exit
+sudo bash
+sqlplus
+cd /
+cd root
+sudo bash
+sqlplus
+sqlplus
+sudo bash
+#1727269811
+git
+#1727269824
+sudo yum install git
+#1727269839
+git
+#1727269884
+git clone git@github.com:venkat793/trianing-biz-venkat.git
+#1727269927
+cd .ssh
+#1727269930
+ls -al
+#1727269969
+ssh-keygen -t rsa -C "key1"
+#1727269977
+ls -al
+#1727269985
+cat id_rsa
+#1727269994
+ls -al
+#1727270002
+cat id_rsa.pub 
+#1727270071
+cd .ssh
+#1727270074
+cd ..
+#1727270083
+cd /
+#1727270085
+cd ..
+#1727270095
+git clone git@github.com:venkat793/trianing-biz-venkat.git
+#1727270137
+cd home
+#1727270142
+cd ~
+#1727270150
+git clone git@github.com:venkat793/trianing-biz-venkat.git
+#1727270163
+ls -al
+#1727270171
+cd trianing-biz-venkat
+#1727270173
+ls -al
+#1727270180
+cat .git
+#1727270186
+cd .git
+#1727270188
+ls -al
+#1727270194
+cat config
+#1727270214
+cd ~
+#1727270216
+pwd
+#1727270226
+pwd -L
+#1727270336
+ls -al
+#1727270339
+export HISTTIMEFORMAT="%F %T "
+#1727270347
+source ~/.bashrc
+#1727270355
+history > commandslist.txt
+#1727270370
+ls -al
+#1727270383
+cat commandslist.txt
+#1727270452
+clear
+#1727270454
+ls -al
+#1727270489
+cp commandslist.txt trianing-biz-venkat
+#1727270492
+cd trianing-biz-venkat
+#1727270495
+ls -al
+#1727270502
+cat commandslist.txt
+#1727270536
+git add .
+#1727270540
+git status
+#1727270629
+git commit -m "corn_job $(date '+%d-%m-%Y %H:%M:%S')"
+#1727270671
+git remote add origin git@github.com:venkat793/trianing-biz-venkat.git
+#1727270681
+git push -u origin main
+#1727271330
+vi update_job.sh
+#1727271486
+exit
+#1727324555
+ls -al
+#1727324562
+cd trianing-biz-venkat
+#1727324571
+ls -al
+#1727324588
+cat update_job.sh
+#1727324613
+pwd
+#1727324636
+vi  update_job.sh
+#1727324699
+cat update_job.sh
+#1727324750
+cd ..
+#1727324752
+ls -al
+#1727324763
+cat commandslist.txt
+#1727324812
+export HISTTIMEFORMAT="%F %T "
+#1727324812
+source ~/.bashrc
+#1727324812
+history > commandslist.txt
+#1727324825
+cat commandslist.txt
+#1727324835
+export HISTTIMEFORMAT="%F %T "
+#1727324841
+source ~/.bashrc
+#1727324849
+history > commandslist.txt
+#1727324862
+cat commandslist.txt
+#1727324880
+ls -al
+#1727324888
+cat commandslist.txt
+#1727324916
+pwd
+#1727324923
+cat commandslist.txt
+#1727324943
+cd training-biz-venkat
+#1727324949
+ls -al
+#1727324962
+cd  trianing-biz-venkat
+#1727324990
+ls -al
+#1727324997
+cat commandslist.txt
+#1727325011
+rm commandslist.txt
+#1727325014
+ls -al
+#1727325017
+cd ..
+#1727325024
+rm commandslist.txt
+#1727325026
+ls -al
+#1727325039
+cd trianing-biz-venkat
+#1727325053
+export HISTTIMEFORMAT="%F %T "
+#1727325063
+source ~/.bashrc
+#1727325077
+history > commandslist.txt
+#1727325082
+ls -al
+#1727325090
+cat commandslist.txt
+#1727325113
+pwd 
+#1727325125
+history > commandslist.txt
+#1727325135
+cat  commandslist.txt
+#1727325226
+ls -al
+#1727325232
+cat commandslist.txt
+#1727325240
+ls -al
+#1727325248
+cat update_job.sh
+#1727325269
+vi update_job.sh
+#1727325346
+vi  update_job.sh
+#1727325434
+exit
