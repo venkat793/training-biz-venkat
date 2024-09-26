@@ -994,3 +994,13 @@ cat commandslist.txt
 clear
 #1727337666
 ls -al
+#1727337681
+./update_job.sh
+#1727337692
+crontab -e
+#1727337719
+ls -ao
+#1727337723
+ls -09
+#1727337726
+ls-hio
