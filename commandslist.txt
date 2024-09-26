@@ -984,3 +984,13 @@ rm commandslist.txt
 l s-al
 #1727337641
 ls -al
+#1727337647
+./update_job.sh
+#1727337651
+ls -al
+#1727337658
+cat commandslist.txt
+#1727337664
+clear
+#1727337666
+ls -al
