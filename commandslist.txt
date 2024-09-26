@@ -1040,3 +1040,7 @@ git add commandslist.txt
 git commit -m "k"
 git push -u origin main
 crontab -e
+crontab -l
+ls -o0
+ls -al
+clear
